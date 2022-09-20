@@ -1,8 +1,8 @@
 {
-  "name": "num2wordKK",
+  "name": "@kerey/num2wordKK",
   "author": "Akzholtay Dagzhanuly",
   "description": "Convert number to word in kazakh",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "keywords": [
     "typescript",
     "library",
@@ -72,5 +72,10 @@
   },
   "overrides": {
     "semver-regex": "3.1.4"
+  },
+  "homepage": "https://github.com/kerey/num2wordKK",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerey/num2wordKK"
   }
 }
